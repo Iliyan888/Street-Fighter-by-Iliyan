@@ -1,11 +1,13 @@
 PImage background;
 
+//Kirby
 PImage kirbyNormal;
 PImage kirbyPunch;
 PImage kirbyKick;
 PImage kirbyAvoid;
 PImage kirbyHurt;
 
+//Mario
 PImage marioNormal;
 PImage marioPunch;
 PImage marioKick;
